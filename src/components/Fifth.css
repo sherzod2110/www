@@ -1,0 +1,31 @@
+.section-text-5 {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #212121;
+}
+
+.section-text-spn {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #949494;
+  margin-left: auto;
+}
+
+.section-text-spn2 {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #949494;
+  margin-left: auto;
+}
+
+.section-5-box {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,129 @@
+body {
+  font-family: "Poppins" sans-serif;
+  background: #fbfbff;
+}
+
+.hero-text {
+  width: 1200px;
+  font-family: "Gentium Basic" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #008f76;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.hero-heading {
+  width: 1100px;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 200%;
+  text-align: center;
+  color: #212121;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-spn {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 200%;
+  text-align: center;
+  color: #008f76;
+}
+
+.hero-btn {
+  width: 209px;
+  height: 52px;
+  background: #008f76;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.03),
+    0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015);
+  border-radius: 20px;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 200%;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  align-items: center;
+  display: flex;
+  padding-left: 32px;
+  cursor: pointer;
+}
+
+.herosearchimg {
+  margin-left: 10px;
+}
+
+.herobtn2 {
+  width: 251px;
+  height: 52px;
+  left: 723px;
+  top: 390px;
+  border: 2px solid #008f76;
+  filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.03))
+    drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015));
+  border-radius: 20px;
+  background: transparent;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 200%;
+  text-align: center;
+  color: #008f76;
+}
+
+.hero-box-btn {
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-bbb {
+  padding-left: 10px;
+}
+
+.hero-images {
+  display: block;
+}
+
+.eee {
+  margin-top: 80px;
+  margin-left: -30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.thirty {
+  width: 700px;
+  display: flex;
+  margin-top: 60px;
+  justify-content: space-between;
+}
+
+.thirty-2 {
+  width: 130px;
+  height: 200px;
+  margin-top: 70px;
+}
+
+.thirty-3 {
+  width: 270px;
+  height: 360px;
+}

@@ -1,0 +1,11 @@
+.bground {
+  height: 50px;
+  background: #008f76;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
